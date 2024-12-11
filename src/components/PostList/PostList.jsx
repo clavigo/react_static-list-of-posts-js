@@ -1,5 +1,4 @@
 import { PostInfo } from '../PostInfo/PostInfo';
-import './index';
 
 export const PostList = ({ posts }) => (
   <div className="PostList">
